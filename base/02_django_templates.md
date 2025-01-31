@@ -54,7 +54,7 @@
   <body>  
       <header>{% include "navbar.html" %}</header>  
       <main>{% block content %}{% endblock %}</main>  
-      <footer>© 2023 My Blog</footer>  
+      <footer>© 2025 My Blog</footer>  
   </body>  
   </html>  
   ```  
